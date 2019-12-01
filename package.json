@@ -1,0 +1,16 @@
+{
+  "name": "node-website-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "export DEBUG=website-scraper*; node --max-old-space-size=5120 index.js"
+  },
+  "author": "Damián Adams",
+  "license": "ISC",
+  "dependencies": {
+    "url-parse": "^1.4.7",
+    "website-scraper": "^4.2.0"
+  }
+}
