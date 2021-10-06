@@ -10,7 +10,7 @@
   "author": "Damián Adams",
   "license": "ISC",
   "dependencies": {
-    "url-parse": "^1.4.7",
+    "url-parse": "^1.5.2",
     "website-scraper": "^4.2.0"
   }
 }
